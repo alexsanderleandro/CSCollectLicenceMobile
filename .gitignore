@@ -1,0 +1,42 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyInstaller
+*.spec
+
+# Encrypted or key files
+*.key
+licenca_mobile.key
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python version manager
+.python-version
